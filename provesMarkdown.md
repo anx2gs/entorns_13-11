@@ -41,9 +41,12 @@ Per a crear cites s'afegeix (>) a l'escomençament:
 
 Per a afegir línies horitzontals es poden gastar aquestes dos formes:
 
-*** (asteriscs)
+*** 
+(asteriscs)
 
---- (guions)
+--- 
+(guions)
 
-___ (guions baixos)
+___ 
+(guions baixos)
 
